@@ -1,0 +1,22 @@
+{
+  "name": "borne-arcade",
+  "version": "1.0.0",
+  "description": "Nous sommes des développeurs juniors mais très forts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antoinehmn/borne-arcade.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antoinehmn/borne-arcade/issues"
+  },
+  "homepage": "https://github.com/Antoinehmn/borne-arcade#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
