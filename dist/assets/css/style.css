@@ -1,1 +1,41 @@
 
+.message{
+    width: 700px;
+    margin-left: 328px;
+    margin-top: 100px;
+}
+
+.message-header{
+    font-size: 40px;
+}
+
+.message-body{
+    font-size: 25px;
+}
+
+.label{
+    color: white;
+}
+
+.ccakebon{
+    margin-top: 100px;
+    margin-left: 12px;
+    padding: 15px;
+    background-color: rgba(4, 35, 48, 0.719);
+    border-radius: 20px;
+}
+
+.field.is-grouped{
+    margin-top: 40px;
+    text-align: end;
+}
+
+.button.is-text{
+    color: white;
+    background-color: rgba(255, 0, 0, 0.603);
+    margin-left: 998px;
+}
+
+.gold {
+    color: aqua,
+}
